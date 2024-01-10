@@ -1,11 +1,14 @@
 ![A passionate Java Full-Stack developer from India](https://github.com/harshan2602/harshan2602/blob/main/Github%20Banner.png)
 
-### Hi there 👋, I'm Harshan
-#### A passionate Java Full-Stack developer from India
+# Hi there 👋, I'm Harshan
 
-I'm Harshan from India and a fervent technophile with a keen inclination towards the realms of Java Full-Stack, Angular and the intricate art of data science.
+I'm Harshan from India and a passionate Java Full-Stack developer from India. Fervent technophile with a keen inclination towards the realms of Java Full-Stack, Angular and the intricate art of data science.
 
-Skills: JAVA / SPRING / ANGULAR / JS / HTML / CSS
+## Skills and Experience
+* 💻 HTML,CSS & JS
+* 🅰️ Angular
+* ♨️ Java
+* 🐬 MySQL
 
  
 - 📫 How to reach me: harshan2602@gmail.com 
