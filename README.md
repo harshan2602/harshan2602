@@ -10,9 +10,6 @@ I'm Harshan from India and a passionate Java Full-Stack developer from India. Fe
 * ♨️ Java
 * 🐬 MySQL
 
- 
-- 📫 How to reach me: harshan2602@gmail.com 
-- ⚡ Fun fact: Did you know? Java was initially named "Oak" after a tree but had to be renamed due to trademark issues. Happy coding!! 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/harshan2602)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/harshan2602/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://harshan2602.in)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/salesforce.svg' alt='salesforce' height='40'>](https://www.salesforce.com/trailblazer/harshan2602)  
