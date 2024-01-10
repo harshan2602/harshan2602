@@ -1,3 +1,4 @@
+![](https://github.com/harshan2602/harshan2602/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Harshan</h1>
 <h3 align="center">A passionate Java Fullstack developer from India</h3>
 
